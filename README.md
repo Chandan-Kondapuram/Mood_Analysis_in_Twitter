@@ -1,1 +1,1 @@
-# Depression-Detection-in-Twitter
+# Mood Analysis in Twitter
